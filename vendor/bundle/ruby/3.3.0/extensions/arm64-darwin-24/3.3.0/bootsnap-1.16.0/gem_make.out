@@ -1,0 +1,18 @@
+current directory: /Users/yujitoshihiro/home/dev/ruby/rails-tutorial/hello_app/vendor/bundle/ruby/3.3.0/gems/bootsnap-1.16.0/ext/bootsnap
+/Users/yujitoshihiro/.asdf/installs/ruby/3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/yujitoshihiro/home/dev/ruby/rails-tutorial/hello_app/vendor/bundle/ruby/3.3.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20250718-88150-44bpiy sitelibdir\=./.gem.20250718-88150-44bpiy clean
+
+current directory: /Users/yujitoshihiro/home/dev/ruby/rails-tutorial/hello_app/vendor/bundle/ruby/3.3.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20250718-88150-44bpiy sitelibdir\=./.gem.20250718-88150-44bpiy
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/yujitoshihiro/home/dev/ruby/rails-tutorial/hello_app/vendor/bundle/ruby/3.3.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20250718-88150-44bpiy sitelibdir\=./.gem.20250718-88150-44bpiy install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20250718-88150-44bpiy/bootsnap
+
+current directory: /Users/yujitoshihiro/home/dev/ruby/rails-tutorial/hello_app/vendor/bundle/ruby/3.3.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20250718-88150-44bpiy sitelibdir\=./.gem.20250718-88150-44bpiy clean

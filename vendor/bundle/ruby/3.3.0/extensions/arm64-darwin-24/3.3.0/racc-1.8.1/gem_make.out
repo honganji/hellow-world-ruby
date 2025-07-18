@@ -1,0 +1,18 @@
+current directory: /Users/yujitoshihiro/home/dev/ruby/rails-tutorial/hello_app/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/yujitoshihiro/.asdf/installs/ruby/3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/yujitoshihiro/home/dev/ruby/rails-tutorial/hello_app/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250718-32805-s25uvu sitelibdir\=./.gem.20250718-32805-s25uvu clean
+
+current directory: /Users/yujitoshihiro/home/dev/ruby/rails-tutorial/hello_app/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250718-32805-s25uvu sitelibdir\=./.gem.20250718-32805-s25uvu
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/yujitoshihiro/home/dev/ruby/rails-tutorial/hello_app/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250718-32805-s25uvu sitelibdir\=./.gem.20250718-32805-s25uvu install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20250718-32805-s25uvu/racc
+
+current directory: /Users/yujitoshihiro/home/dev/ruby/rails-tutorial/hello_app/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250718-32805-s25uvu sitelibdir\=./.gem.20250718-32805-s25uvu clean
